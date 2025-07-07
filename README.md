@@ -2,9 +2,9 @@
 
 
 	
-## Sobre Mi
+## <picture> <img src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 <p>Soy Ingeniero de Sistemas apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en bases de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre en busca de nuevos retos y aprendizajes en el mundo del data analytics.</p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
@@ -14,15 +14,15 @@
 - :student: Estoy continuamente estudiando nuevas herramientas para el análisis de datos.
 - :nerd_face: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender cosas nuevas`.
 - :thinking: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1b3rCQnkWQJXTJLt4Xd6rh9X8Hyv7Kwg1/view?usp=drive_link).
-- :boom: A continuación puedes ver algunas de mis programas utilizados y proyectos que he realizado :point_down:
+- :boom: A continuación puedes ver algunos de mis programas utilizados y proyectos :point_down:
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis programas utilizados
+## 🛠️ Mis programas utilizados
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-	<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+	<img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
