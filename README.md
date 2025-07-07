@@ -14,7 +14,7 @@
 - :mortar_board: Estoy continuamente estudiando nuevas herramientas para el análisis de datos.
 - :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender cosas nuevas`.
 - :page_facing_up: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1b3rCQnkWQJXTJLt4Xd6rh9X8Hyv7Kwg1/view?usp=drive_link).
-- :open_file_folder: A continuación puedes ver algunas de mis herramientas utilizadas y proyectos :point_down:
+- :file_folder: A continuación puedes ver algunas de mis herramientas utilizadas y proyectos :point_down:
 <br>
 
 
@@ -27,17 +27,14 @@
 </p>
 
 
-## :telephone_receiver: Mis proyectos
-<p align="center">
-	<a href="mailto:ahmed.wiliam9614@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/WilliamLopez663"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/573133824935"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/william-lópez-8958a62aa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+## :open_file_folder: Mis proyectos
+<ul>
+	<li>Proyectos en Excel</li>
+	<li>Proyectos en PowerBi + Dax</li>
+	<li>Proyectos en Python</li>
+</ul>
 
 <br><br>
-
-
 
 
 ## :telephone_receiver: Contactame
