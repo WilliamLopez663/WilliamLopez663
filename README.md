@@ -21,19 +21,19 @@
 ## 🛠️ Herramientas utilizadas
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-	<img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/excel.PNG" style="width: 100px; height: 90px;">
+	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power_bi.PNG" style="width: 100px; height: 90px;">
+	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/python.PNG" style="width: 100px; height: 90px;">
 </p>
 
 
 ## :open_file_folder: Mis proyectos
-<ul>
-	<li>Proyectos en Excel</li>
-	<li>Proyectos en PowerBi + Dax</li>
-	<li>Proyectos en Python</li>
-</ul>
 
+<ul>
+	<li><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> </li>
+	<li><img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></li>
+	<li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></li>
+</ul>
 <br><br>
 
 
@@ -45,5 +45,4 @@
 	<a href="https://www.linkedin.com/in/william-lópez-8958a62aa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<br><br>
-
+<br>
