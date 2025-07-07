@@ -1,10 +1,6 @@
 <h1 align="center">Hola , Mi nombre es William López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<img src="https://github.com/tu-usuario/tu-repo/blob/main/ruta/a/la-imagen.png?raw=true" width="50" alt="Mi Imagen" />
-
-
-
 	
 ## Sobre Mi
 <p>Soy Ingeniero de Sistemas apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en bases de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre en busca de nuevos retos y aprendizajes en el mundo del data analytics.</p>
@@ -13,19 +9,21 @@
 <br>
 
 - :school: Soy ingeniero de Sistemas graduado de la [Uniremington](https://www.uniremington.edu.co/) sede [Yopal, Casanare](https://www.uniremington.edu.co/yopal/).
-- :technologist: Apasionado por el Analisis de datos como herramienta para tranformar datos de forma precisa.
+- :technologist: Apasionado por el Analisis de datos.
 - :computer: Soy competente en el uso de herramientas como `Excel`, `Power Bi`, `Python`.
 - :student: Estoy continuamente estudiando nuevas herramientas para el análisis de datos.
 - :nerd_face: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender cosas nuevas`.
 - :thinking: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1b3rCQnkWQJXTJLt4Xd6rh9X8Hyv7Kwg1/view?usp=drive_link).
-- :boom: A continuación puedes ver algunas de mis habilidades y proyectos que he realizado :point_down:
+- :boom: A continuación puedes ver algunas de mis programas utilizados y proyectos que he realizado :point_down:
 <br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis programas utilizados
 
 <p align="center">
-
+	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+	<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
