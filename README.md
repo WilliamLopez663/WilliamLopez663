@@ -14,11 +14,11 @@
 - :student: Estoy continuamente estudiando nuevas herramientas para el análisis de datos.
 - :nerd_face: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender cosas nuevas`.
 - :thinking: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1b3rCQnkWQJXTJLt4Xd6rh9X8Hyv7Kwg1/view?usp=drive_link).
-- :boom: A continuación puedes ver algunos de mis programas utilizados y proyectos :point_down:
+- :boom: A continuación puedes ver algunas de mis herramientas utilizadas y proyectos :point_down:
 <br>
 
 
-## 🛠️ Mis programas utilizados
+## 🛠️ Herramientas utilizadas
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
