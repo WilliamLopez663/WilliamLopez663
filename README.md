@@ -20,8 +20,11 @@
 <br>
 
 
-## 🛠️ Herramientas utilizadas
+## 🛠️ Estudios y cursos
+<picture> <img align="left" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Left_Side.gif?raw=true" width = 250px></picture>
 
+
+## 🛠️ Herramientas utilizadas
 <p align="center">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/excel.PNG" style="width: 100px; height: 90px;">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power_bi.PNG" style="width: 100px; height: 90px;">
@@ -33,13 +36,9 @@
 
 
 ## :open_file_folder: Mis proyectos
-
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
 
 
 ## :telephone_receiver: Contactame
