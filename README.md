@@ -1,27 +1,31 @@
+
 <h1 align="center">Hola , Mi nombre es William López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<br>
-
-	
 ## <picture> <img src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 <p>Soy Ingeniero de Sistemas apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en bases de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre en busca de nuevos retos y aprendizajes en el mundo del data analytics.</p>
 <picture> <img align="right" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br>
 
-- :school: Soy ingeniero de Sistemas graduado de la [Uniremington](https://www.uniremington.edu.co/) sede [Yopal, Casanare](https://www.uniremington.edu.co/yopal/).
-- :bar_chart: Apasionado por el Analisis de datos.
+- :bar_chart: Apasionado por el Análisis de datos y la generación de valor a través de la información.
 - 🛠️ Soy competente en el uso de herramientas como `Excel`, `Power Bi`, `Python`.
-- :mortar_board: Estoy continuamente estudiando nuevas herramientas para el análisis de datos.
-- :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender cosas nuevas`.
+- :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender nuevas herramientas y tecnologías`.
 - :page_facing_up: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1b3rCQnkWQJXTJLt4Xd6rh9X8Hyv7Kwg1/view?usp=drive_link).
-- :file_folder: A continuación puedes ver algunas de mis herramientas utilizadas y proyectos :point_down:
+- :file_folder: A continuación puedes ver mi `formación` algunas de mis `herramientas utilizadas`, `proyectos` e `información de contacto` :point_down:
 <br>
 
 
-## 🛠️ Estudios y cursos
+## 🛠️ Formación y Cursos
 <picture> <img align="left" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Left_Side.gif?raw=true" width = 250px></picture>
+- **Formación**
+- :mortar_board: Ingeniero de Sistemas de la [Uniremington](https://www.uniremington.edu.co/) sede Yopal, Casanare.
+- :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
+- **Cursos**
+- :computer: Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
+- :school: Power Bi - [Platzi](https://platzi.com/home/).
+- :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
+- 
+<br>
 
 
 ## 🛠️ Herramientas utilizadas
