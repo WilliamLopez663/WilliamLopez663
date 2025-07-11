@@ -23,7 +23,7 @@
 - **Cursos**
 - :computer: Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
 - :school: Power Bi - [Platzi](https://platzi.com/home/).
-- :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
+- :school: 
 - 
 <br>
 
