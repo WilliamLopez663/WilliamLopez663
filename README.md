@@ -21,14 +21,14 @@
 - :mortar_board: Ingeniero de Sistemas de la [Uniremington](https://www.uniremington.edu.co/) sede Yopal, Casanare.
 - :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
 - **Cursos**
-- :computer: Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
-- :school: Power Bi - [Platzi](https://platzi.com/home/).
-
+- Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
+- Power Bi - [Platzi](https://platzi.com/home/).
+- Excel Intermedio - [Platzi](https://platzi.com/home/).
   
 <br><br><br>
 
 
-## 🛠️ Herramientas utilizadas
+## 🛠️ Herramientas y Tecnologías
 <p align="center">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/excel.PNG" style="width: 100px; height: 90px;">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power_bi.PNG" style="width: 100px; height: 90px;">
