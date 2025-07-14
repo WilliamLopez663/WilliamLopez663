@@ -23,9 +23,9 @@
 - **Cursos**
 - :computer: Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
 - :school: Power Bi - [Platzi](https://platzi.com/home/).
-- :school: 
-- 
-<br>
+
+  
+<br><br><br>
 
 
 ## 🛠️ Herramientas utilizadas
@@ -35,9 +35,11 @@
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/python.PNG" style="width: 100px; height: 90px;">
 </p>
 
+<br>
 
 ## ✨ Proyectos Destacados
 
+<br><br>
 
 ## :open_file_folder: Mis proyectos
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -48,8 +50,13 @@
 <img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
+<br><br>
 
-## :telephone_receiver: Contactame
+## :mailbox: Contactame
+
+**:email: wiliam9614@gmail.com**  
+**:telephone_receiver: +57 3133824935**
+
 <p align="center">
 	<a href="mailto:wiliam9614@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/WilliamLopez663"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -57,7 +64,4 @@
 	<a href="https://www.linkedin.com/in/william-lópez-8958a62aa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
- <div align="center">
-	 
-```bash 
-wiliam9614@gmail.com
+
