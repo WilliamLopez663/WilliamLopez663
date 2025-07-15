@@ -47,8 +47,12 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 - [SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 
+- [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
 <img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+
+- [Mi primer Dashboard en POWER BI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br><br>
