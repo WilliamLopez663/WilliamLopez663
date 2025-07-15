@@ -50,8 +50,29 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 
 - [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
-<img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</div>
+<table>
+<tr>
+<td width="50%">
+	<h3 align="center">Mi primer dashboard en Power BI</h3>
+	<div align="center">
+	<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+	<p>
+	<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+	</a>
+	</p>
+	<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el 			código disponible para descargar.</p>
+	</div>
+</td>
+	<td width="50%">
+	</td>
+</table>
+	
+</div>
 - [Mi primer Dashboard en POWER BI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
