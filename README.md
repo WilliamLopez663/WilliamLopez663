@@ -59,7 +59,7 @@
 <td width="50%">
 	<h3 align="center">Mi primer dashboard en Power BI</h3>
 	<div align="center">
-	<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG"></a>
 	<p>
 	<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
