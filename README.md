@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola , Mi nombre es William López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
@@ -47,33 +46,32 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 - [SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<br>
 
-- [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 
-<div align="center">
-	<img src="https://img.shields.io/badge/Power_BI + Dax-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-</div>
 <table>
 <tr>
 <td width="50%">
-	<h3 align="center">Mi primer dashboard en Power BI</h3>
 	<div align="center">
-	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG"></a>
+	<h3 align="center">Mi primer Dashboard en Power BI</h3>
+	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG" width="800"></a>
 	<p>
-	<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+	<a href="https://github.com/ArisGuimera/Android-Expert" >
+	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 	</a>
 	</p>
-	<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el 			código disponible para descargar.</p>
+	<p>Realizando mi primer <strong>Dashboar en Power Bi</strong> desde cero basado en las ventas de productos tecnológicos por parte de la empresa MaxTecnology.</p>
 	</div>
 </td>
-	<td width="50%">
-	</td>
-</table>
-	
-</div>
-- [Mi primer Dashboard en POWER BI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
+<td width="50%">
+</td>
+</tr>
+</table>	
+
+- [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
+
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br><br>
