@@ -31,8 +31,9 @@
 ## 🛠️ Herramientas y Tecnologías
 <p align="center">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/excel.PNG" style="width: 100px; height: 90px;">
-	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power_bi.PNG" style="width: 100px; height: 90px;">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power-query.PNG" style="width: 100px; height: 90px;">
+	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power_bi.PNG" style="width: 100px; height: 90px;">
+	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/dax.PNG" style="width: 100px; height: 90px;">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/python.PNG" style="width: 100px; height: 90px;">
 </p>
 
