@@ -40,16 +40,6 @@
 
 ## ✨ Proyectos Destacados
 
-<br><br>
-
-## :open_file_folder: Mis proyectos
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-- [SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
-<br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-
 <table>
 <tr>
 <td width="50%">
@@ -67,7 +57,17 @@
 <td width="50%">
 </td>
 </tr>
-</table>	
+</table>
+<br><br>
+
+## :open_file_folder: Mis proyectos
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+- [SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+	
 
 - [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
 
