@@ -58,7 +58,7 @@
 	
 <td width="50%">
 	<div align="center">
-	<h3 align="center">Mi primer Dashboard en Power BI</h3>
+	<h3 align="center">Dashboard de Recursos Humanos</h3>
 	<a href="https://https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/resultado-final.PNG" width="800"></a>
 	<p>
 	<a href="https://https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" >
