@@ -21,7 +21,7 @@
 - :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
 - **Cursos**
 - Power Bi - [Platzi](https://platzi.com/home/).
-- Excel Avanzado para el análisis de datos - [Platzi](https://platzi.com/home/).
+- Excel Avanzado para el Análisis de datos - [Platzi](https://platzi.com/home/).
 - **Cursos en progreso**
 - Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
 - Power Bi - [Datly](https://datlyeducacion.com/) 
