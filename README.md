@@ -75,7 +75,8 @@
 ## :open_file_folder: Mis proyectos
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-- [SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
+- [Funciones SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
+- [Creando un Formulario](https://github.com/WilliamLopez663/Creando-un-Formulario)
 <br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
