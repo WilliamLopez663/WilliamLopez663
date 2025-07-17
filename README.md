@@ -111,8 +111,6 @@
   
 <br>
 
-
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 	
 - [Creando-mi-primer-Dashboard-en-PowerBI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
@@ -121,6 +119,8 @@
 
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+- [Construyendo una calculadora del área de un polígono](https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono)
 
 <br><br>
 
