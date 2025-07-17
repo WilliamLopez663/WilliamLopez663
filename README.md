@@ -97,8 +97,11 @@
 - [Funciones Sumar.Si, Contar.Si y Promedio.Si](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
 - [Creando un Formulario](https://github.com/WilliamLopez663/Creando-un-Formulario)
 - [Funcion BuscarV y Power Pivot](https://github.com/WilliamLopez663/Funcion-BuscarV-y-Power-Pivot)
+- [Dashboard en Excel - Análisis de ventas y beneficios](https://github.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel)
   
 <br>
+
+
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 	
