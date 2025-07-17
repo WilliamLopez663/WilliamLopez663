@@ -75,7 +75,7 @@
 ## :open_file_folder: Mis proyectos
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-- [Funciones SUMAR.SI, CONTAR.SI Y PROMEDIO.SI](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
+- [Funciones Sumar.Si, Contar.Si y Promedio.Si](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
 - [Creando un Formulario](https://github.com/WilliamLopez663/Creando-un-Formulario)
 - [Funcion BuscarV y Power Pivot](https://github.com/WilliamLopez663/Funcion-BuscarV-y-Power-Pivot)
   
