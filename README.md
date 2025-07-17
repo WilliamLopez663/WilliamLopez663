@@ -55,7 +55,7 @@
 	<p>Desarrollando un análisis de ventas y beneficios utilizando una base de datos de facturas que contiene información sobre fechas, comerciales, marcas, artículos, cantidades, precios y beneficios.</p>
 	</div>
 </td>
-	
+
 <td width="50%">
 	<div align="center">
 	<h3 align="center">Mi primer Dashboard en Power BI</h3>
@@ -82,8 +82,18 @@
 	<p> Dashboard interactivo de Recursos Humanos que muestra el moviento de personal incluyendo indicadores como empleados actuales, desvinculaciones y tasa de rotación.</p>
 	</div>
 </td>
-	
+
 <td width="50%">
+	<div align="center">
+	<h3 align="center">Construyendo una calculadora del área de un polígono</h3>
+	<a href="https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono/main/images/calculadora-area-poligino.PNG" width="800"></a>
+	<p>
+	<a href="https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono" >
+	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
+	</a>
+	</p>
+	<p> Desarrollando una herramienta que permita calcular el área, el perímetor y la diagonal de diferentes polígonos.</p>
+	</div>
 
 </td>
 </tr>
