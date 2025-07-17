@@ -9,7 +9,7 @@
 - :bar_chart: Apasionado por el Análisis de datos y la generación de valor a través de la información.
 - 🛠️ Soy competente en el uso de herramientas como `Excel`, `Power Bi`, `Python`.
 - :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender nuevas herramientas y tecnologías`.
-- :page_facing_up: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1b3rCQnkWQJXTJLt4Xd6rh9X8Hyv7Kwg1/view?usp=drive_link).
+- :page_facing_up: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://drive.google.com/file/d/1704Up-TEVP9YWb6n-Qhq95Y8NATlLDiP/view?usp=drive_link).
 - :file_folder: A continuación puedes ver mi `formación` algunas de mis `herramientas utilizadas`, `proyectos` e `información de contacto` :point_down:
 <br>
 
