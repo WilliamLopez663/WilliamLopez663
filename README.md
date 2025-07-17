@@ -2,7 +2,7 @@
 
 
 ## <picture> <img src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
-<p>Soy Ingeniero de Sistemas apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en bases de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre en busca de nuevos retos y aprendizajes en el mundo del data analytics.</p>
+<p>Soy Ingeniero de Sistemas apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en manipulación de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre en busca de nuevos retos y aprendizajes en el mundo del data analytics.</p>
 <picture> <img align="right" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 
