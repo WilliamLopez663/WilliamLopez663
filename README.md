@@ -46,7 +46,7 @@
 <td width="50%">
 	<div align="center">
 	<h3 align="center">Analisis de Ventas y Beneficios</h3>
-	<a href="https://github.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/resultado-final.PNG"" width="800"></a>
+	<a href="https://github.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel/main/assets/images/resultado-final.PNG"" width="450" height="280"></a>
 	<p>
 	<a href="https://github.com/WilliamLopez663/Analisis-de-Ventas-y-Beneficios-con-Dashboard-en-Excel" >
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
@@ -55,11 +55,10 @@
 	<p>Desarrollando un análisis de ventas y beneficios utilizando una base de datos de facturas que contiene información sobre fechas, comerciales, marcas, artículos, cantidades, precios y beneficios.</p>
 	</div>
 </td>
-
 <td width="50%">
 	<div align="center">
 	<h3 align="center">Mi primer Dashboard en Power BI</h3>
-	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG" width="800"></a>
+	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG" width="450" height="250"></a>
 	<p>
 	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" >
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
@@ -73,7 +72,7 @@
 <td width="50%">
 	<div align="center">
 	<h3 align="center">DashBoard Recursos Humanos</h3>
-	<a href="https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/resultado-final.PNG" width="800"></a>
+	<a href="https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/resultado-final.PNG" width="450" height="280"></a>
 	<p>
 	<a href="https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" >
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
@@ -86,7 +85,7 @@
 <td width="50%">
 	<div align="center">
 	<h3 align="center">Construyendo una calculadora del área de un polígono</h3>
-	<a href="https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono/main/images/calculadora-area-poligino2.PNG" width="800"></a>
+	<a href="https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono/main/images/calculadora-area-poligino2.PNG" width="400" height="250"></a>
 	<p>
 	<a href="https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono" >
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
