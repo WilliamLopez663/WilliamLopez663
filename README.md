@@ -47,14 +47,25 @@
 	<h3 align="center">Mi primer Dashboard en Power BI</h3>
 	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG" width="800"></a>
 	<p>
-	<a href="https://github.com/ArisGuimera/Android-Expert" >
+	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" >
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 	</a>
 	</p>
-	<p>Realizando mi primer <strong>Dashboar en Power Bi</strong> desde cero basado en las ventas de productos tecnológicos por parte de la empresa MaxTecnology.</p>
+	<p>Realizando mi primer <strong>Dashboar en Power BI</strong> desde cero basado en las ventas de productos tecnológicos por parte de la empresa MaxTecnology.</p>
 	</div>
 </td>
+	
 <td width="50%">
+	<div align="center">
+	<h3 align="center">Mi primer Dashboard en Power BI</h3>
+	<a href="https://https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Recursos-Humanos/main/assets/images/resultado-final.PNG" width="800"></a>
+	<p>
+	<a href="https://https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos" >
+	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
+	</a>
+	</p>
+	<p> Dashboard interactivo de Recursos Humanos que muestra el moviento de personal incluyendo indicadores como empleados actuales, desvinculaciones y tasa de rotación.</p>
+	</div>
 </td>
 </tr>
 </table>
