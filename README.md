@@ -85,7 +85,7 @@
 	
 - [Creando-mi-primer-Dashboard-en-PowerBI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
 - [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
-- [Dashboard-Recursos-Humanos](https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos)
+- [Dashboard de Recursos Humanos](https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos)
 
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
