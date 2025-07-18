@@ -57,14 +57,14 @@
 </td>
 <td width="50%">
 	<div align="center">
-	<h3 align="center">Mi primer Dashboard en Power BI</h3>
-	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG" width="450" height="250"></a>
+	<h3 align="center">Dashboar Financiero</h3>
+	<a href="https://github.com/WilliamLopez663/Dashboard-Financiero" target="_blank"><img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/resultado-final.PNG" width="450" height="250"></a>
 	<p>
-	<a href="https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI" >
+	<a href="https://github.com/WilliamLopez663/Dashboard-Financiero" >
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 	</a>
 	</p>
-	<p>Realizando mi primer Dashboar en Power BI desde cero basado en las ventas de productos tecnológicos por parte de la empresa MaxTecnology.</p>
+	<p>Este dashboard financiero de ventas proporciona una visión clara y actualizada del desempeño comercial de la empresa.</p>
 	</div>
 </td>
 </tr>
@@ -115,6 +115,8 @@
 - [Creando-mi-primer-Dashboard-en-PowerBI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
 - [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
 - [Dashboard de Recursos Humanos](https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos)
+- [Dashboard Financiero](https://github.com/WilliamLopez663/Dashboard-Financiero)
+
 
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
