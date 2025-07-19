@@ -22,8 +22,8 @@
 - **Cursos**
 - Power Bi - [Platzi](https://platzi.com/home/).
 - Excel Avanzado para el Análisis de datos - [Platzi](https://platzi.com/home/).
-- **Cursos en progreso**
 - Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
+- **Cursos en progreso**
 - Power Bi - [Datly](https://datlyeducacion.com/) 
 <br><br><br>
 
