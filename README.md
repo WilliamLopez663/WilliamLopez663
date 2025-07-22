@@ -101,7 +101,8 @@
 <br><br>
 
 ## :open_file_folder: Mis proyectos
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet-217346?logo=microsoft-excel&logoColor=white)
 
 - [Funciones Sumar.Si, Contar.Si y Promedio.Si](https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel)
 - [Creando un Formulario](https://github.com/WilliamLopez663/Creando-un-Formulario)
@@ -110,16 +111,21 @@
   
 <br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Analytics-F2C811?logo=powerbi&logoColor=black)
 	
 - [Creando-mi-primer-Dashboard-en-PowerBI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
 - [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
 - [Dashboard de Recursos Humanos](https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos)
 - [Dashboard Financiero](https://github.com/WilliamLopez663/Dashboard-Financiero)
 
+<br>
+
+![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+
 
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+![Python](https://img.shields.io/badge/Python-3.13-yellow?logo=python)
 
 - [Construyendo una calculadora del área de un polígono](https://github.com/WilliamLopez663/Construyendo-una-calculadora-del-area-de-un-poligono)
 
