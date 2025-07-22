@@ -35,6 +35,7 @@
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/power_bi.PNG" style="width: 100px; height: 90px;">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/dax.PNG" style="width: 100px; height: 90px;">
 	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/python.PNG" style="width: 100px; height: 90px;">
+	<img src="https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/images/sql.PNG" style="width: 100px; height: 90px;">
 </p>
 
 <br>
