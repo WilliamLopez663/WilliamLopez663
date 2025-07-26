@@ -126,7 +126,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
 
 - [Base de Datos - Biblioteca - MySQL](https://github.com/WilliamLopez663/Base-de-Datos---Biblioteca---MySQL)
-- 
+- [Select, Insert, Update y Delete - MySQL](https://github.com/WilliamLopez663/Select-Insert-Update-y-Delete---MySQL)
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.13-yellow?logo=python)
