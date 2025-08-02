@@ -94,7 +94,7 @@
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 	</a>
 	</p>
-	<p> Desarrollando una herramienta que permita calcular el área, el perímetor y la diagonal de diferentes polígonos.</p>
+	<p> Desarrollando una herramienta que permita calcular el área, el perímetro y la diagonal de diferentes polígonos.</p>
 	</div>
 
 </td>
