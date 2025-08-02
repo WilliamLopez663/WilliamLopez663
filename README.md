@@ -55,7 +55,7 @@
 	<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 	</a>
 	</p>
-	<p>Desarrollando un análisis de ventas y beneficios utilizando una base de datos de facturas que contiene información sobre fechas, comerciales, marcas, artículos, cantidades, precios y beneficios.</p>
+	<p>Desarrollando un dashboard de análisis de ventas y beneficios utilizando una base de datos de facturas que contiene información sobre fechas, comerciales, marcas, artículos, cantidades, precios y beneficios.</p>
 	</div>
 </td>
 <td width="50%">
