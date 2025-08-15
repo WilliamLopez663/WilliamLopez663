@@ -116,7 +116,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Data_Analytics-F2C811?logo=powerbi&logoColor=black)
 	
-- [Creando mi primer Dashboard en PowerBI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
+- [Creando mi primer Dashboard en Power BI](https://github.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI)
 - [Dashboard de Ventas de Productos de la Canasta Familiar](https://github.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar)
 - [Dashboard de Recursos Humanos](https://github.com/WilliamLopez663/Dashboard-Recursos-Humanos)
 - [Dashboard Financiero](https://github.com/WilliamLopez663/Dashboard-Financiero)
