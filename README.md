@@ -2,15 +2,15 @@
 
 
 ## <picture> <img src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
-<p>Soy Ingeniero de Sistemas apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en manipulación de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre en busca de nuevos retos y aprendizajes en el mundo de los datos.</p>
+<p>Soy Ingeniero de Sistemas, apasionado por el análisis de datos y la toma de decisiones basada en evidencia. Con conocimientos en manipulación de datos, programación y herramientas de visualización, me enfoco en transformar datos en información valiosa para apoyar la innovación en los procesos y la mejora continua. Siempre estoy en busca de nuevos retos y aprendizajes en el mundo de los datos.</p>
 <picture> <img align="right" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 
-- :bar_chart: Apasionado por el Análisis de datos y la generación de valor a través de la información.
-- 🛠️ Tengo conocimientos en el manejo de herramientas como `Excel`, `Power Bi`, `SQL`, `Python`.
-- :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender nuevas herramientas y tecnologías`.
+- :bar_chart: Apasionado por el análisis de datos y la generación de valor a través de la información.
+- 🛠️ Cuento con conocimientos en el manejo de herramientas como `Excel`, `Power Bi`, `SQL`, `Python`.
+- :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender nuevas herramientas`.
 - :page_facing_up: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/docs/CV_WilliamLopez.pdf).
-- :file_folder: A continuación puedes ver mi `formación` algunas de mis `herramientas utilizadas`, `proyectos` e `información de contacto` :point_down:
+- :file_folder: A continuación, puedes ver mi `formación` algunas de las `herramientas que manejo`, `proyectos` e `información de contacto` :point_down:
 <br>
 
 
