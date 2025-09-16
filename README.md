@@ -19,7 +19,7 @@
 - **Formación**
 - :mortar_board: Ingeniero de Sistemas de la [Uniremington](https://www.uniremington.edu.co/) sede Yopal, Casanare.
 - :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
-- **Cursos**
+- **Formación Complementaria**
 - Excel Avanzado para el Análisis de datos - [Platzi](https://platzi.com/home/).
 - Power Bi - [Datly](https://datlyeducacion.com/).
 - Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
