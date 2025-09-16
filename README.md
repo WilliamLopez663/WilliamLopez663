@@ -15,7 +15,7 @@
 
 
 ## 🛠️ Formación y Cursos
-<picture> <img align="left" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Left_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/Left_Side.gif?raw=true" width = 250px></picture>
 **Formación**
 - :mortar_board: Ingeniero de Sistemas de la [Uniremington](https://www.uniremington.edu.co/) sede Yopal, Casanare.
 - :school: Técnico de Sistemas del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) - Servicio Nacional de Aprendizaje.
