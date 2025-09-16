@@ -22,6 +22,7 @@
 
   
 **Formación Complementaria**
+- Excel Avanzado - [Politécnico Comfacasanare](https://comfacasanare.com.co/politecnico-comfacasanare/).
 - Excel Avanzado para el Análisis de datos - [Platzi](https://platzi.com/home/).
 - Power Bi - [Datly](https://datlyeducacion.com/).
 - Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
