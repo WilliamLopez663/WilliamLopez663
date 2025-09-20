@@ -7,7 +7,7 @@
 <br>
 
 - :bar_chart: Apasionado por el análisis de datos y la generación de valor a través de la información.
-- 🛠️ Cuento con conocimientos en el manejo de herramientas como `Excel`, `Power Bi`, `SQL`, `Python`.
+- 🛠️ Cuento con conocimientos en el manejo de herramientas como `Excel`, `Power Bi`, `SQL`,`R`, `Python`.
 - :computer: La tecnología avanza muy rápido por eso siempre estoy dispuesto a `aprender nuevas herramientas`.
 - :page_facing_up: Actualmente estoy buscando nuevas `oportunidades de trabajo`, esta es mi [Hoja de Vida](https://raw.githubusercontent.com/WilliamLopez663/WilliamLopez663/main/docs/CV_WilliamLopez.pdf).
 - :file_folder: A continuación, puedes ver mi `formación` algunas de las `herramientas que manejo`, `proyectos` e `información de contacto` :point_down:
