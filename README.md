@@ -27,7 +27,7 @@
 - Excel Avanzado para el Análisis de datos - [Platzi](https://platzi.com/home/).
 - Power Bi - [Datly](https://datlyeducacion.com/).
 - Computación cientifica con Python - [freeCodeCamp](https://www.freecodecamp.org/):fire:.
-- Google Data Analytics - [Coursera](https://www.coursera.org/) - En progreso.
+- Análisis de datos de Google - [Coursera](https://www.coursera.org/).
 
 <br><br><br>
 
